@@ -12,8 +12,6 @@ Usage:
 5. Exec the MyMake.exe
 
 Example MyMake.mmk
-==================
 1 main.cpp
 2 :example
-==================
 :example - name of exit exe (example.exe)
