@@ -1,5 +1,6 @@
 #pragma once
 
+
 #define CSI                 "\x1B["
 #define CLEAR               CSI "0m"
 #define BRIGHT_BLACK_S      CSI "0;90m"
