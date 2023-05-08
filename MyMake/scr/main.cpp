@@ -89,6 +89,8 @@ int main(int argc, char** argv)
 		HandleError("Compilation error");
 	}
 
+	cout << "Press any key to continue..." << endl;
+	_getch();
 	return 0;
 }
 
