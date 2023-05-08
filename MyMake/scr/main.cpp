@@ -4,7 +4,7 @@
 #include <vector>
 #include <conio.h>
 
-#include "Console.h"
+#include "Console.hpp"
 
 using namespace std;
 
